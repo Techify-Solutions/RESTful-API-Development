@@ -1,0 +1,14 @@
+// Successful Response
+{
+  "id": 1,
+  "name": "John Doe",
+  "email": "john.doe@example.com"
+}
+
+// Error Response
+
+{
+  "error": "Not Found",
+  "message": "The requested user does not exist",
+  "status": 404
+}
