@@ -1,0 +1,9 @@
+// Avoid this
+
+GET https://api.example.com/v1/user-actions
+
+// Prefer this
+
+GET https://api.example.com/v1/users
+
+GET https://api.example.com/v1/orders
