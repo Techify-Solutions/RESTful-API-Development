@@ -1,0 +1,9 @@
+GET https://api.example.com/v1/users
+
+GET https://api.example.com/v1/users/1
+
+POST https://api.example.com/v1/users
+
+PUT https://api.example.com/v1/users/1
+
+DELETE https://api.example.com/v1/users/1
